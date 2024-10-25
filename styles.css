@@ -1,9 +1,10 @@
 body{
 color:white;
 background:black;
+margin:0px
 }
 
 heeader{
     border-bottom: solid 2px rgb(42,122,2228);
-
+/* margin20px */
 }
